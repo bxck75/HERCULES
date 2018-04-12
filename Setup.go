@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 package main
 
 import "os/exec"
