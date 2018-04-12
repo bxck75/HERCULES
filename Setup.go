@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 
-import "os/exec"
-import "strings"
-import "runtime"
-import "github.com/fatih/color"
-import "os"
+import os/exec
+import strings
+import runtime
+import github.com/fatih/color
+import os
 
 
 
