@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 
-package main
-
 import "os/exec"
 import "strings"
 import "runtime"
